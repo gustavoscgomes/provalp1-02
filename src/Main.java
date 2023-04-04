@@ -25,7 +25,7 @@ public class Main {
                         System.out.println("Saldo isuficiente");
                     } else {
                         System.out.println(c.saque());
-                    }
+                    }break;
 
             }
 
